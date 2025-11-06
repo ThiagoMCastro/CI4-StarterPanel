@@ -1,4 +1,4 @@
-<div class="modal" id="formRoleModal" tabindex="-1" aria-labelledby="formUserModalLabel" aria-hidden="true">
+<!-- <div class="modal" id="formRoleModal" tabindex="-1" aria-labelledby="formUserModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -21,4 +21,4 @@
 
         </div>
     </div>
-</div>
+</div> -->
